@@ -18,6 +18,19 @@
 
   ## Usage 
   Navigate to the walkthrough video here: [Screencastify](https://drive.google.com/file/d/1smifrf2WMzYejQA5fCBgxk1fFNT7VYBK/view)
+  <img src='images/jate-gif.gif' alt='demo' /><br/>
+  
+  The following image shows the application's `manifest.json` file:
+
+  <img src='images/jate-man.png' alt='demo'>
+
+  The following image shows the application's registered service worker: 
+
+  <img src='images/jate-sw.png' alt='demo' />
+
+  The following image shows the application's IndexedDB storage:
+
+  <img src='images/jate-db.png' alt='demo' />
 
   ## License 
   This project is license under MIT
